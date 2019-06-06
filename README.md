@@ -3,8 +3,6 @@
 
 // Neel Patel 
 
-HANDOUT 2 ADHERED; NO BUGS TO REPORT
-
 ****HITS and PageRank Algorithm****
 
 	It is a Java Implementation for Kleinberg’s HITS and Google’s PageRank Algorithm.
